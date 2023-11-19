@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://golamrabbi.vercel.app)
 <h1 align="center">Hi 👋, I'm Golam Rabbi(ラッビ）</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh.</h3>
-<img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="350" height="350">
+<img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grabbi467&label=Profile%20views&color=0e75b6&style=flat" alt="grabbi467" /> </p>
 
 - 🌱 I’m currently learning **Redux,DSA**
